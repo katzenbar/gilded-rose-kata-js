@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "name": "gilded-rose-kata-js",
+  "version": "1.0.0",
+  "description": "Adaptation for the Gilded Rose kata using Javascript and Jest for testing.",
+  "main": "index.js",
+  "repository": "git@github.com:katzenbar/gilded-rose-kata-js.git",
+  "author": "Kat Tornwall <ktornwall@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
